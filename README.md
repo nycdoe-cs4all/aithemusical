@@ -12,7 +12,7 @@ description: >-
 {% hint style="info" %}
 ### Essential Question:
 
-How do recommendation systems impact what media I am presented in various digital contexts? (e.g. online shopping, binge-watching, listening to music, etc)
+How do recommendation systems impact what media I encounter? (e.g. online shopping, binge-watching, listening to music, etc)
 {% endhint %}
 
 
